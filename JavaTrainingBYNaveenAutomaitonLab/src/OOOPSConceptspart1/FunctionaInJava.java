@@ -1,5 +1,5 @@
 package OOOPSConceptspart1;
-//if i call no static method , must i have to create an object because inside the objcet all method are inclued
+//if i call no static method , must i have to create an object and  inside the objcet all method are inclued
 
 public class FunctionaInJava {
 

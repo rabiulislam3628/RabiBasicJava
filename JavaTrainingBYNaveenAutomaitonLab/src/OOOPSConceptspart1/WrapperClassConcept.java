@@ -16,7 +16,7 @@ public class WrapperClassConcept {
   //String to double conversion
     String y="12.33"; 
 double d= Double.parseDouble(y);
-System.out.println(d+10);//22.33
+System.out.println(d+12.33);//22.33
 
 //String to boolean
 String k="true";

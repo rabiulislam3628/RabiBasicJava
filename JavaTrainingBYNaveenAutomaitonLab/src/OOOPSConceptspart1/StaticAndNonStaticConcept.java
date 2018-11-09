@@ -24,7 +24,7 @@ public class StaticAndNonStaticConcept {
 //
 	StaticAndNonStaticConcept obj =new StaticAndNonStaticConcept();
 	
-	System.out.println(obj.name);//another way call staic method 
+	System.out.println(obj.name);//another way call  non staic method 
 	obj.sendMail();  //one way call staic method 
 
 //interview quesiton ? Can i access static methods by using object referece? yes but warning will be given  
