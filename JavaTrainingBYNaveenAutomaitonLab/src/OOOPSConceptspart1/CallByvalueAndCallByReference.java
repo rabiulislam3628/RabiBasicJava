@@ -8,6 +8,8 @@ public class CallByvalueAndCallByReference {
 		int x=10;
 		int y=20;
 		obj.testSum(x, y);//call by value ro pass by value
+		
+		
 	//N B ::sudy more for next time	,this topic
 		
 	}

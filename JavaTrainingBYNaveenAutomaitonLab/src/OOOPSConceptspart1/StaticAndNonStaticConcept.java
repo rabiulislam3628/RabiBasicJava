@@ -31,8 +31,7 @@ public class StaticAndNonStaticConcept {
 //	
 	obj.sum(); //warning will be given 
 	
-		
-
+	
 
 	}
 

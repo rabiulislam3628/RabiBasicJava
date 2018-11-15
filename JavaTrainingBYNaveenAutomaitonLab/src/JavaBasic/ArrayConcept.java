@@ -10,7 +10,7 @@ public class ArrayConcept {
 //lowest bound/index=0
 //upper bound/index=n-1(n is size of array (4-1)=3
 		
-//below all one dimention array		
+//below all one/single  dimention array		
 		int i[] =new int[4];
 		i[0]=10;
 		i[1]=20;

@@ -1,10 +1,5 @@
 package JavaBasic;
 
-//this is my first java learning
-/* this is my 
- * first java
- * code
- */
 public class DataType {
 //premative data type: int , double ,char boolean
 	public static void main(String[] args) {

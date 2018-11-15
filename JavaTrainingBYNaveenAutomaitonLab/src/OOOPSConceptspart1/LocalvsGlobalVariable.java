@@ -5,7 +5,7 @@ public class LocalvsGlobalVariable {
 //Global variable/class variable 
 //Global variable i can used through out the program but it is name and age then crate an object	
 	
-	String name="Rabiul";
+	String name="Rabiul"; //global variable
 	int age =35;
 	
 	public static void main(String[] args) {

@@ -24,6 +24,7 @@ public class Car {
    
    c.mod=2013;
    c.wheel=4;
+   
    System.out.println("before assinging the references");
   System.out.println(a.mod);
   System.out.println(c.wheel);

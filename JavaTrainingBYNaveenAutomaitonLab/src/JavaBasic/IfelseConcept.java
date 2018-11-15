@@ -2,7 +2,16 @@ package JavaBasic;
 //if else : if condition true then execute if block or execute else block
 public class IfelseConcept {
 	public static void main(String[] args) {
-		//comparison operators
+		
+/* java basic operators
+ * Arithmetic Operators  ----( +, -,*, /,%modular,++,--,)
+		Relational Operators--- ( < lessthen ,  gaterthen >,<=,>=,==,!=,)
+		Bitwise Operators ---(Bitwise operator works on bits and performs bit-by-bit operation. 
+		Logical Operators---( && (logical and),   || (logical or), ! (logical not)
+		Assignment Operators---(=,+=,-=,*=,/=,%=,
+			*/	
+		
+		//comparison operators/Relational operator
 		//<>,<=,>=,==,!=,
 		int c=40;
 		int d=40;
@@ -46,6 +55,7 @@ public class IfelseConcept {
 			int a1 = 400;
 			int b1=200;
 			int c1= 300;
+			
 			//nested if -else statement 
 			if (a1>b1 & a1>c1){//false & false= false
 				//true &false =false
@@ -61,6 +71,11 @@ public class IfelseConcept {
 			}
 			
 		}
+		
+		
+	//	&& (logical and)	Called Logical AND operator. If both the operands are non-zero, then the condition becomes true.	(A && B) is false
+	//	|| (logical or)	Called Logical OR Operator. If any of the two operands are non-zero, then the condition becomes true.	(A || B) is true
+	//  ! (logical not)	Called Logical NOT Operator. Use to reverses the logical state of its operand. If a condition is true then Logical NOT operator will make false.	!(A && B) is true	
 		
 	}
 

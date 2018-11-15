@@ -17,6 +17,9 @@ public class MethodOverloading {
 //Duplicate methods --- i.e same method name with same number of argumets are not allows 	
 //we can overloaded main method also
 	
+	
+//Method overriding : when method is present in parent class as well as in child 
+		//class with same name and arguments ,it is called method overriding	
 public void sum() {//0 input parameter 
 	System.out.println("sum method ---zero parameter ");
 	
