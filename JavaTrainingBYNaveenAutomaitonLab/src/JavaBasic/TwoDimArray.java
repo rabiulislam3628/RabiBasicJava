@@ -33,6 +33,8 @@ public class TwoDimArray {
 	y[2][3]="D2";
 	y[2][4]="E2";
 	
+	
+	
 System.out.println(y[0][4]);//E
 System.out.println(y[1][2]);//c1
 System.out.println(y[2][4]);//E2

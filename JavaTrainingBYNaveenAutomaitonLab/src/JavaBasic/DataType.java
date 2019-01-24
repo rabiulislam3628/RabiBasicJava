@@ -58,6 +58,8 @@ public class DataType {
 				System.out.println("The char value is " +ch);
 				System.out.println("The boolean value is" +bl);
 				
+			
+				
 
 	}
 

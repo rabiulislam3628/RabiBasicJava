@@ -10,6 +10,7 @@ public class FunctionaInJava {
 //one object will be created,obj is the reference variable, reference to this object	
 //afer creating the object, the copy of all non static methods will be given to this object		
 	obj.test();
+	
 	int l = obj.pqr();
 	System.out.println(l);
 	

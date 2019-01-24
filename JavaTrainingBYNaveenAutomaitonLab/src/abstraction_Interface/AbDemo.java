@@ -1,4 +1,5 @@
 //Abstract class and Abstract methods
+
 package abstraction_Interface;
 
 public class AbDemo {
@@ -9,7 +10,7 @@ public class AbDemo {
 //MahesPhone obj	=new RameshPhone();//I can not create object in abstract class 
 //obj.call();
 
-// now i cna create abject SureshPhone class
+// now i can  create object SureshPhone class
 // I can not create object in abstract class but i can create reference variable of abstract class then I can call of sub class object by super or parents class reference variable 	
 	MahesPhone obj=	new SureshPhone();	
 	obj.call();
@@ -23,7 +24,7 @@ public class AbDemo {
 }
 //Abstract class
  abstract class MahesPhone{  //he knows how to define the call in call methods but 
-	//he does not how to implement or define the move,dance and cook methods ,he just declare it  
+	//he does not  know how to implement or define the move,dance and cook methods ,he just declare it  
 	public void call() {  
 		System.out.println("calling----");
 	}

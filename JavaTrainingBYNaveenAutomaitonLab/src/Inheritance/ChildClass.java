@@ -15,11 +15,11 @@ public class ChildClass extends BassClass{
 		
 	}
 		public void mul() {
-			System.out.println("hello I am base or supar class and multiplication is 2500");
+			System.out.println("hello I am sub  or supar class and multiplication is 2500");
 		}
 	
 		public void div() {
-			System.out.println("hello I am base or supar class and divition is 50");
+			System.out.println("hello I am sub or supar class and divition is 50");
 		}
 
 }

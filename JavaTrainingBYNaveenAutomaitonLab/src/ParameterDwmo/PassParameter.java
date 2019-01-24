@@ -8,6 +8,7 @@ public class PassParameter {
 		obj.add(10, 20);
 		obj.sub(22.20, 33.30);
 		
+		
 //Q6.How to pass the parameter? Ans: when I call the method with object then java asking pass
 //the parameter then run the program and get the result 
 		

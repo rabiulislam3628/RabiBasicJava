@@ -3,6 +3,7 @@ package JavaBasic;
 public class IfelseConcept {
 	public static void main(String[] args) {
 		
+		
 /* java basic operators
  * Arithmetic Operators  ----( +, -,*, /,%modular,++,--,)
 		Relational Operators--- ( < lessthen ,  gaterthen >,<=,>=,==,!=,)
@@ -16,12 +17,24 @@ public class IfelseConcept {
 		int c=40;
 		int d=40;
 		if (c==d) {
-			System.out.println("c and d are equal ");
-		}
+		System.out.println("c and d are equal ");
+	}
 		else {
-			System.out.println("c and d are not equal ");
+			//System.out.println("c and d are not equal ");
+		
 		}
-			
+			//------------------------------+
+		int E= 500;
+		int F= 100;
+	if (F<E) {
+		System.out.println("E is gater then F ");}
+		
+		else {
+			System.out.println("F is gater then E");
+		
+		
+	}
+	//------------------------------------------=+
 		
 		int x =100;
 		int y= 300;
@@ -61,6 +74,7 @@ public class IfelseConcept {
 				//true &false =false
 				//true & true = true
 				System.out.println("a1 is the greatest");
+				
 			}
 			else if(b1>c1){
 				System.out.println("b1 is the greatest");

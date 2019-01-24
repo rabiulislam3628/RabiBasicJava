@@ -1,4 +1,5 @@
 package CompilePolyMorphism;
+//compile time polymorphism  : example- method overloading
 
 public class CompileDwmo1 {
 //Method overloading : method can be overloading if method name is same but with different signature/ input parameter /arguramet
@@ -7,7 +8,7 @@ public class CompileDwmo1 {
 	
 //1. number of argument : 2 or 3 passing argument 
 //2. type of argument : data type -int or double 
-//3. order of argument : same method and same data type but order of argument --ex-change the site like-(int a, double  b) and (double c, int d) 	
+//3. order of argument : same method and same data type but order of argument is different --ex-change the site like-(int a, double  b) and (double c, int d) 	
 	public static void main(String[] args) {
 		
 		CompileDwmo1 co=new CompileDwmo1();
